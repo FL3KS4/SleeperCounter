@@ -1,0 +1,14 @@
+{
+  "name": "sleepercounter",
+  "version": "1.0.0",
+  "description": "Bot for counting sleepers",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "FL3KS4",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^11.4.2"
+  }
+}
